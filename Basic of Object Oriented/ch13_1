@@ -3,10 +3,9 @@ Question #1
 
 a) Write a class named Point2d. Point2d should contain two member variables of type double: m_x, and m_y, both defaulted to 0.0. Provide a constructor and a print function.
 
-The following program should run:
 */
 
-#include <iostream>
+# include <iostream>
 
 class Point2d
 {
